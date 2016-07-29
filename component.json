@@ -1,0 +1,21 @@
+{
+  "name": "u.formlabel.js",
+  "repository": "iamso/u.insight.js",
+  "description": "Sticky form labels",
+  "version": "0.1.0",
+  "keywords": [
+    "u.js",
+    "jquery",
+    "form",
+    "labels"
+  ],
+  "scripts": [
+    "dist/u.formlabel.js",
+    "dist/u.formlabel.min.js",
+    "dist/u.formlabel.min.js.map",
+    "dist/jquery.formlabel.js",
+    "dist/jquery.formlabel.min.js",
+    "dist/jquery.formlabel.min.js.map"
+  ],
+  "license": "MIT"
+}
